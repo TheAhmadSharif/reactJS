@@ -1,10 +1,10 @@
 ## React JS 
 
 
-### This my personal repository for practise React JS
+This my personal repository for practise React JS
 
 
 
-### License 
+## License 
 
-MIT
+The MIT License
